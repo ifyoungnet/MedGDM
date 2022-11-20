@@ -50,3 +50,6 @@ Free thyroxine. Input range: 0.46-56.59(pmol/L)
 + P(y=1): the probability to be GDM. 
 + P(y=0):  the probability to be NGDM.
 + Prediction (Y): 1 represents GDM and 0 represent NGDM.
+
+### How to cite?
+Zhou F, Xiao R, Song FL, _et al_. A stepwise prediction and interpretation of gestational diabetes mellitus based on advanced machine learning methods. Submitted.
