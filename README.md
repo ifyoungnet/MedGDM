@@ -9,4 +9,4 @@ We provided ***three*** pipeline based on the KNIME software. Users only need to
 
 
 #### 1. By inputting indicators in the table.
-![tabel-GDM-Model](/tabel-GDM-Model.jpg 400x500)
+![tabel-GDM-Model](/tabel-GDM-Model.jpg=400x500)
